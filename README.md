@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on my skill bruhh🥲🥲<br>🌱 I’m currently learning HTML, CSS, JS<br>💬 Ask me about anything if i can🤣<br>⚡ Fun fact: I am boy brooo
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stevegerrd_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stevengsianipar@gmail.com) 
 
