@@ -1,6 +1,6 @@
 ## 🌐 Social
 <p align="center">
-  <img src="login.jpg" alt="Batik_Alomani_Screenshot" width="400"/>
+  <img src="10429.jpg" alt="Batik_Alomani_Screenshot"/>
 </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stevegerrd_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stevengsianipar@gmail.com) 
