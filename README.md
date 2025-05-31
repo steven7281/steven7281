@@ -13,8 +13,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=steven7281&icon=4&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
+### Pacman Contribution Graph:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steven7281/steven7281/output/pacman-contribution-graph-dark.svg">
@@ -22,5 +21,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/steven7281/steven7281/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
